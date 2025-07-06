@@ -54,13 +54,13 @@ const handleSubmit = async (e: React.FormEvent) => {
     {
       icon: Phone,
       title: 'Call Us',
-      content: '+234 (0) 123 456 789',
+      content: '+2347039326564',
       link: 'tel:+2341234567890'
     },
     {
       icon: MapPin,
       title: 'Visit Us',
-      content: 'Lagos, Nigeria',
+      content: 'Kaduna, Nigeria',
       link: 'https://maps.google.com'
     },
     {
