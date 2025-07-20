@@ -6,34 +6,39 @@ const Services = () => {
   const services = [
     {
       icon: Monitor,
-      title: 'Web Design & UI/UX',
+      title: 'Web Development & UI/UX Design',
       subtitle: 'Websites that convert traffic to trust',
       description: 'Custom-crafted websites and landing pages designed for conversion and built for speed—with premium UI systems that scale with your business.',
       features: [
-        'Conversion-optimized design systems',
-        'Mobile-first responsive architecture',
-        'Performance optimization & SEO',
-        'User experience research & testing',
-        'Custom dashboard & admin panels',
-        'E-commerce & payment integration'
+        'Custom Website Design & Development (React, WordPress, Webflow, etc.)',
+        'UI/UX Design (Wireframing, Prototyping, Design Systems)',
+        'Landing Pages & Portfolio Sites',
+        'E-Commerce Website Development (Shopify, WooCommerce, etc.)',
+        'Web Application Development (MVPs, Portals, Dashboards)',
+        'Website Redesign, Revamp, Maintenance & Support',
+        'Design Systems & Component Libraries',
+
+
       ],
       color: 'from-electric-orange to-red-500',
       image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg'
     },
     {
       icon: TrendingUp,
-      title: 'Digital Marketing',
+      title: 'Digital Marketing & Social Media Management',
       subtitle: 'Complete growth systems that build audiences and drive revenue',
       description: 'Comprehensive digital marketing strategies that transform your online presence into a revenue-generating machine through data-driven campaigns and strategic execution.',
       features: [
-        'Social Media Strategy & Management',
-        'Paid Advertising (Meta, Google Ads)',
-        'Content Marketing & Storytelling',
-        'Email Marketing Automation',
-        'Influencer Marketing Campaigns',
-        'Analytics & Performance Reporting',
-        'SEO Optimization & Strategy',
-        'Funnel Design & Conversion Strategy'
+        'Social Media Management (Content Calendar, Posting, Engagement)',
+        'Social Media Strategy & Audit',
+        'Paid Ad Campaigns (Facebook, Instagram, Google Ads, LinkedIn)',
+        'Influencer Marketing Coordination',
+        'Content Creation (Captions, Visuals, Carousels, Copywriting)',
+        'Email Marketing (Newsletters, Funnels, Automation)',
+        'Search Engine Optimization (SEO Audit, On-page, Off-page)',
+        'Online Reputation Management',
+        'Analytics, Reporting & Data Insights',
+        'Marketing Automation Setup (e.g. CRM, Email triggers)'
       ],
       color: 'from-lime-green to-green-500',
       image: 'https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg'
@@ -50,6 +55,8 @@ const Services = () => {
         'Print, digital, & marketing collateral(Flyers, Brochures, Stationaries & more)',
         'Digital Assets (Social media,Ads, Emails Banners, etc)',
         'Packaging & product design',
+        'Social Media Brand Kit (Templates, Highlight Covers, etc.)',
+        'Event or Elite Campaign Branding',
         'Illustration & custom Graphic(Infographics, Custom Icons, Characters Design)'
       ],
       color: 'from-rich-violet to-purple-500',
@@ -64,9 +71,11 @@ const Services = () => {
         'Social media video content',
         'Motion graphics & animation',
         'Brand intro & logo animations',
-        'Product demonstration videos',
+        'Social Media Motion Graphics (Reels, Stories, Shorts)',
+        'Explainer Videos (2D/3D Animation, Infographics)',
         'Advertising & promotional content',
-        'Video editing & post-production'
+        'Video Editing (Event, Interview, Documentary)',
+        'Voiceover Integration & Subtitling'
       ],
       color: 'from-blue-500 to-indigo-600',
       image: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg'

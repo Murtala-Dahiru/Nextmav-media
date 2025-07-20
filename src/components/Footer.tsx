@@ -17,7 +17,7 @@ const Footer = () => {
               <div className="p-2 bg-gradient-to-r from-electric-orange to-rich-violet rounded-lg group-hover:scale-110 transition-transform duration-300">
                 <Zap className="h-6 w-6 text-white" />
               </div>
-              <span className="text-2xl font-bold">Mav Media</span>
+              <span className="text-2xl font-bold">Nextmav</span>
             </Link>
             <p className="text-gray-300 mb-6 max-w-md">
               The creative engine behind the next billion-dollar brands. 
@@ -25,40 +25,40 @@ const Footer = () => {
             </p>
             <div className="flex space-x-4">
               <a 
-                href="https://instagram.com/mavmedia" 
-                target="_blank"
+                href="https://www.instagram.com/nextmav_?igsh=bHVyazRuN3FzNzI5" 
+                target="Nextmav IG"
                 rel="noopener noreferrer"
                 className="group p-2 bg-slate-gray rounded-lg hover:bg-electric-orange transition-all duration-300"
               >
                 <Instagram className="h-5 w-5 group-hover:scale-110 transition-transform" />
               </a>
               <a 
-                href="https://facebook.com/mavmedia" 
-                target="_blank"
+                href="https://www.facebook.com/share/1Bfv5KDGZD/" 
+                target="Facebook"
                 rel="noopener noreferrer"
                 className="group p-2 bg-slate-gray rounded-lg hover:bg-electric-orange transition-all duration-300"
               >
                 <Facebook className="h-5 w-5 group-hover:scale-110 transition-transform" />
               </a>
               <a 
-                href="https://twitter.com/mavmedia" 
-                target="_blank"
+                href="https://x.com/nextmav?t=o7aJjjnx7UbH3lfnivmQow&s=08" 
+                target="X"
                 rel="noopener noreferrer"
                 className="group p-2 bg-slate-gray rounded-lg hover:bg-electric-orange transition-all duration-300"
               >
                 <Twitter className="h-5 w-5 group-hover:scale-110 transition-transform" />
               </a>
               <a 
-                href="https://youtube.com/@mavmedia" 
-                target="_blank"
+                href="https://www.youtube.com/@Nextmav" 
+                target="YouTube"
                 rel="noopener noreferrer"
                 className="group p-2 bg-slate-gray rounded-lg hover:bg-electric-orange transition-all duration-300"
               >
                 <Youtube className="h-5 w-5 group-hover:scale-110 transition-transform" />
               </a>
               <a 
-                href="https://linkedin.com/company/mavmedia" 
-                target="_blank"
+                href="https://www.linkedin.com/in/nextmav-agency-773a5036b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" 
+                target="Linkedin"
                 rel="noopener noreferrer"
                 className="group p-2 bg-slate-gray rounded-lg hover:bg-electric-orange transition-all duration-300"
               >
@@ -91,18 +91,18 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-6">Get In Touch</h3>
             <div className="space-y-3">
               <a 
-                href="mailto:hello@mavmedia.co"
+                href="mailto:hello@Naxtmav.co"
                 className="flex items-center space-x-3 group"
               >
                 <Mail className="h-5 w-5 text-electric-orange group-hover:scale-110 transition-transform" />
-                <span className="text-gray-300 group-hover:text-white transition-colors">hello@mavmedia.co</span>
+                <span className="text-gray-300 group-hover:text-white transition-colors">Nextmavagency@gmail.com</span>
               </a>
               <a 
                 href="tel:+2341234567890"
                 className="flex items-center space-x-3 group"
               >
                 <Phone className="h-5 w-5 text-electric-orange group-hover:scale-110 transition-transform" />
-                <span className="text-gray-300 group-hover:text-white transition-colors">+2347039326564</span>
+                <span className="text-gray-300 group-hover:text-white transition-colors">+2348039660993</span>
               </a>
             </div>
             <div className="mt-6">
@@ -118,7 +118,7 @@ const Footer = () => {
 
         <div className="border-t border-slate-gray mt-12 pt-8 flex flex-col md:flex-row items-center justify-between">
           <p className="text-gray-400 text-sm">
-            © 2025 Mav Media. All rights reserved. Built for scale.
+            © 2025 Nextmav. All rights reserved. Built for scale.
           </p>
           <p className="text-gray-400 text-sm mt-4 md:mt-0">
             Africa-born, globally-minded.

@@ -35,7 +35,7 @@ const About = () => {
     {
       icon: Lightbulb,
       title: 'Design as Strategy',
-      description: 'We don\'t just make things look good—we make them work better. Every pixel serves your business objectives.'
+      description: 'We don\'t just make things look good, we make them work better. Every pixel serves your business objectives.'
     },
     {
       icon: Rocket,
@@ -75,22 +75,22 @@ const About = () => {
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div className="animate-slide-up">
               <h2 className="text-4xl font-bold text-deep-blue mb-6">
-                Why Mav Media Exists
+                Why NextMav Exists
               </h2>
               <div className="space-y-6 text-gray-600">
                 <p className="text-lg leading-relaxed">
                   In a world where brands have seconds to make an impression, mediocre design 
-                  isn't just ineffective—it's expensive. Every day, brilliant businesses lose 
+                  isn't just ineffective but it's expensive. Every day, brilliant businesses lose 
                   opportunities because their visual identity doesn't match their ambition.
                 </p>
                 <p className="text-lg leading-relaxed">
-                  Mav Media was born from a simple observation: Africa is home to extraordinary 
+                  NextMav was born from a simple observation: Africa is home to extraordinary 
                   entrepreneurs building world-class businesses, but many lack the visual systems 
                   to compete on the global stage.
                 </p>
                 <p className="text-lg leading-relaxed">
                   We bridge that gap. We're the creative engine that transforms local brilliance 
-                  into global recognition. Speed, scale, and sophistication—that's our promise.
+                  into global recognition. Speed, scale, and sophistication, that's our promise.
                 </p>
               </div>
             </div>
@@ -242,7 +242,7 @@ const About = () => {
               </div>
               <h3 className="text-2xl font-bold text-deep-blue mb-4 group-hover:text-rich-violet transition-colors">Deploy</h3>
               <p className="text-gray-600">
-                Seamless implementation and optimization. We don't just deliver—we ensure success.
+                Seamless implementation and optimization. We don't just deliver, we ensure success.
               </p>
             </div>
           </div>

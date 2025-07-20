@@ -12,19 +12,19 @@ const Portfolio = () => {
       id: 1,
       title: 'TechStart Pro',
       category: 'Web Design',
-      description: 'Complete digital transformation for a fintech startup. 300% increase in conversions.',
+      description: 'Complete digital transformation for a fintech startup. 200% increase in conversions.',
       image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg',
       tags: ['UI/UX', 'Conversion Optimization', 'Mobile-First'],
-      results: '+300% Conversions'
+      results: '+200% Conversions'
     },
     {
       id: 2,
       title: 'AfriGrow Brand Identity',
       category: 'Branding',
-      description: 'Brand system for agricultural tech company expanding across 5 African countries.',
+      description: 'Brand system for agricultural tech company expanding across 3 African countries.',
       image: 'https://images.pexels.com/photos/3803517/pexels-photo-3803517.jpeg',
       tags: ['Logo Design', 'Brand Guidelines', 'Print Design'],
-      results: '5 Country Expansion'
+      results: '3 Country Expansion'
     },
     {
       id: 3,
@@ -39,10 +39,10 @@ const Portfolio = () => {
       id: 4,
       title: 'FitLife Growth Campaign',
       category: 'Digital Marketing',
-      description: 'Complete digital marketing overhaul driving 500K+ followers and 400% engagement.',
+      description: 'Complete digital marketing overhaul driving 5000+ followers and 200% engagement.',
       image: 'https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg',
       tags: ['Social Strategy', 'Paid Ads', 'Content Marketing'],
-      results: '500K+ Followers'
+      results: '5000+ Followers'
     },
     {
       id: 5,
@@ -66,10 +66,10 @@ const Portfolio = () => {
       id: 7,
       title: 'SportsPro Video Series',
       category: 'Video',
-      description: 'High-impact video content series generating 2M+ views across platforms.',
+      description: 'High-impact video content series generating 20k+ views across platforms.',
       image: 'https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg',
       tags: ['Video Production', 'Motion Graphics', 'Social Content'],
-      results: '2M+ Views'
+      results: '20k+ Views'
     },
     {
       id: 8,
@@ -96,7 +96,7 @@ const Portfolio = () => {
       description: 'Complete brand identity for luxury craft marketplace targeting global markets.',
       image: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg',
       tags: ['Luxury Branding', 'Marketplace', 'Global Launch'],
-      results: '12 Country Launch'
+      results: '5 Country Launch'
     },
     {
       id: 11,
@@ -105,7 +105,7 @@ const Portfolio = () => {
       description: 'Multi-channel marketing campaign promoting African tourism destinations.',
       image: 'https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg',
       tags: ['Tourism Marketing', 'Multi-channel', 'Destination Branding'],
-      results: '2.5M Reach'
+      results: '50k Reach'
     },
     {
       id: 12,
@@ -264,7 +264,7 @@ const Portfolio = () => {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             <div className="text-center group">
               <div className="text-4xl md:text-5xl font-bold text-electric-orange mb-2 group-hover:scale-110 transition-transform">
-                200+
+                30+
               </div>
               <div className="text-gray-300">
                 Projects Delivered
@@ -272,7 +272,7 @@ const Portfolio = () => {
             </div>
             <div className="text-center group">
               <div className="text-4xl md:text-5xl font-bold text-lime-green mb-2 group-hover:scale-110 transition-transform">
-                300%
+                200%
               </div>
               <div className="text-gray-300">
                 Average Growth
@@ -280,7 +280,7 @@ const Portfolio = () => {
             </div>
             <div className="text-center group">
               <div className="text-4xl md:text-5xl font-bold text-rich-violet mb-2 group-hover:scale-110 transition-transform">
-                15+
+                5+
               </div>
               <div className="text-gray-300">
                 Countries Served

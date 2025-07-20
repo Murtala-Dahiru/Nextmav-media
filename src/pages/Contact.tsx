@@ -48,14 +48,14 @@ const handleSubmit = async (e: React.FormEvent) => {
     {
       icon: Mail,
       title: 'Email Us',
-      content: 'hello@mavmedia.co',
-      link: 'mailto:hello@mavmedia.co'
+      content: 'Nextmavagency@gmail.com',
+      link: 'mailto:hello@Naxtmav.co'
     },
     {
       icon: Phone,
       title: 'Call Us',
-      content: '+2347039326564',
-      link: 'tel:+2341234567890'
+      content: '+2348039660993',
+      link: 'tel:+23439660993'
     },
     {
       icon: MapPin,
@@ -67,14 +67,16 @@ const handleSubmit = async (e: React.FormEvent) => {
       icon: MessageCircle,
       title: 'WhatsApp',
       content: 'Start a conversation',
-      link: 'https://wa.me/2341234567890'
+      link: 'https://wa.me/2348039660993'
     }
   ];
 
   const services = [
     'Web Design & Development',
     'Digital Marketing',
-    'Brand Identity & Design',
+    'Social Media Management',
+    'Brand Identity',
+    'Graphic Design',
     'Video & Motion Graphics',
     'Complete Digital Transformation',
     'Other'
@@ -127,7 +129,7 @@ const handleSubmit = async (e: React.FormEvent) => {
                       onChange={handleChange}
                       required
                       className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-electric-orange focus:border-transparent transition-all duration-300 hover:border-electric-orange"
-                      placeholder="John Doe"
+                      placeholder="Enter Your Name"
                     />
                   </div>
                   <div>
@@ -142,7 +144,7 @@ const handleSubmit = async (e: React.FormEvent) => {
                       onChange={handleChange}
                       required
                       className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-electric-orange focus:border-transparent transition-all duration-300 hover:border-electric-orange"
-                      placeholder="john@company.com"
+                      placeholder="Enter Your Email"
                     />
                   </div>
                 </div>
@@ -158,7 +160,7 @@ const handleSubmit = async (e: React.FormEvent) => {
                     value={formData.company}
                     onChange={handleChange}
                     className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-electric-orange focus:border-transparent transition-all duration-300 hover:border-electric-orange"
-                    placeholder="Your Company"
+                    placeholder="Enter Your Company"
                   />
                 </div>
 
@@ -242,7 +244,7 @@ const handleSubmit = async (e: React.FormEvent) => {
               {/* Quick Actions */}
               <div className="space-y-4">
                 <a
-                  href="https://calendly.com/mavmedia"
+                  href="https://calendly.com/Nextmav"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group w-full bg-gradient-to-r from-electric-orange to-rich-violet text-white px-6 py-4 rounded-full font-semibold text-center hover:shadow-lg hover:scale-105 transition-all duration-300 flex items-center justify-center"
@@ -251,7 +253,7 @@ const handleSubmit = async (e: React.FormEvent) => {
                   Schedule Strategy Call
                 </a>
                 <a
-                  href="https://wa.me/2341234567890"
+                  href="https://wa.me/2348039660993"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group w-full border-2 border-lime-green text-lime-green px-6 py-4 rounded-full font-semibold text-center hover:bg-lime-green hover:text-white transition-all duration-300 flex items-center justify-center"
@@ -304,7 +306,7 @@ const handleSubmit = async (e: React.FormEvent) => {
             {[
               {
                 question: "How long does a typical project take?",
-                answer: "Project timelines vary based on scope. Web projects typically take 2-6 weeks, brand identity 1-3 weeks, and digital marketing campaigns are ongoing. We prioritize speed without compromising quality."
+                answer: "Project timelines vary based on scope. Web projects typically take 1 weeks, brand identity 1-2 weeks, and digital marketing campaigns are ongoing. We prioritize speed without compromising quality."
               },
               {
                 question: "Do you work with businesses outside Africa?",

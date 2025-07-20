@@ -4,25 +4,25 @@ import { ArrowRight, Play, Star, TrendingUp, Users, Globe } from 'lucide-react';
 
 const Home = () => {
   const stats = [
-    { icon: Users, number: '200+', label: 'Brands Transformed' },
-    { icon: Globe, number: '15+', label: 'Countries Served' },
-    { icon: TrendingUp, number: '300%', label: 'Average Growth' },
+    { icon: Users, number: '30+', label: 'Brands Transformed' },
+    { icon: Globe, number: '5+', label: 'Countries Served' },
+    { icon: TrendingUp, number: '200%', label: 'Average Growth' },
     { icon: Star, number: '4.9/5', label: 'Client Satisfaction' },
   ];
 
   const services = [
     {
-      title: 'Web Design & UI/UX',
+      title: 'Web Development & UI/UX Design',
       description: 'Websites that convert traffic to trust and visitors to customers.',
       color: 'from-electric-orange to-red-500'
     },
     {
-      title: 'Digital Marketing',
+      title: 'Digital Marketing & Social Media Management',
       description: 'Complete growth systems that build audiences and drive revenue.',
       color: 'from-lime-green to-green-500'
     },
     {
-      title: 'Brand Identity & Design',
+      title: 'Branding & Graphics Design',
       description: 'Visual systems that communicate value and build recognition.',
       color: 'from-rich-violet to-purple-500'
     },

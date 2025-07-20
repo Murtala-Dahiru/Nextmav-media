@@ -44,7 +44,7 @@ const Header = () => {
             <span className={`text-2xl font-bold transition-colors ${
               scrolled ? 'text-deep-blue' : 'text-white'
             }`}>
-              Mav Media
+              NextMav
             </span>
           </Link>
 
